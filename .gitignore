@@ -1,0 +1,14 @@
+# editors
+*.swp
+
+# Bundler/Rubygems
+*.gem
+.bundle
+pkg/*
+tags
+Gemfile.lock
+
+# Vagrant
+.vagrant
+Vagrantfile
+!example_box/Vagrantfile
